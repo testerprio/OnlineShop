@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lazada MainFeature</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2576d45-5cd6-4817-9a72-2532ded29696</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccbcd306-0042-41df-a070-f3a91551d490</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67e3a5fd-62c7-47cc-a2e5-5c83c870e60d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96f858dd-0801-4fe6-baa7-819449c26b9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84573652-6c8b-4548-a6ee-d1f4f70de40a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Pulsa &amp; Tagihan'</defaultValue>
+      <description></description>
+      <id>ccbcd306-0042-41df-a070-f3a91551d490</id>
+      <masked>false</masked>
+      <name>Menu_Topup</name>
+   </variable>
+   <variable>
+      <defaultValue>'LazMall'</defaultValue>
+      <description></description>
+      <id>67e3a5fd-62c7-47cc-a2e5-5c83c870e60d</id>
+      <masked>false</masked>
+      <name>Menu_LazMall</name>
+   </variable>
+   <variable>
+      <defaultValue>'Voucher'</defaultValue>
+      <description></description>
+      <id>96f858dd-0801-4fe6-baa7-819449c26b9a</id>
+      <masked>false</masked>
+      <name>Menu_Voucher</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84573652-6c8b-4548-a6ee-d1f4f70de40a</id>
+      <masked>false</masked>
+      <name>MainMenu</name>
+   </variable>
+</TestCaseEntity>

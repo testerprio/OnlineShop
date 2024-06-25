@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OtomotiveShopping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>989699df-0e86-4c9c-a128-5f51bb729798</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10fab340-f9ec-4f06-8c49-7ceebf50cef9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'LazMall'</defaultValue>
+      <description></description>
+      <id>10fab340-f9ec-4f06-8c49-7ceebf50cef9</id>
+      <masked>false</masked>
+      <name>MainMenu</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TopupPhonenumberBalance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87605e35-a18b-4210-9f5b-820a52df1b0d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a511b65-6ea0-4c69-abab-a9794f890532</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Pulsa'</defaultValue>
+      <description></description>
+      <id>0a511b65-6ea0-4c69-abab-a9794f890532</id>
+      <masked>false</masked>
+      <name>MainMenu</name>
+   </variable>
+</TestCaseEntity>

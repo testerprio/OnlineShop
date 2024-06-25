@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReserveFashionVoucher</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdc1f134-b426-4a0c-83b1-488fa4d8462b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>188a92b0-3770-41cc-95b7-917094338182</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Voucher'</defaultValue>
+      <description></description>
+      <id>188a92b0-3770-41cc-95b7-917094338182</id>
+      <masked>false</masked>
+      <name>mainMenu</name>
+   </variable>
+</TestCaseEntity>

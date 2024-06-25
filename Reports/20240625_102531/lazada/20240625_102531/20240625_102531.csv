@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+lazada,Chrome 126.0.0.0,,,2024-06-25 10:25:43,2024-06-25 10:31:03,5m - 20.498s,PASSED
+,,,,,,,
+Test Cases/Lazada/RegisterNewMember,Chrome 126.0.0.0,,,2024-06-25 10:25:43,2024-06-25 10:26:34,50.540s,PASSED
+openBrowser(lazada),Chrome 126.0.0.0,,,2024-06-25 10:25:43,2024-06-25 10:26:10,26.144s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,2024-06-25 10:26:10,2024-06-25 10:26:10,0.572s,PASSED
+"click(findTestObject(""div"", [""attr"":""@id"", ""val"":""anonSignup""]))",Chrome 126.0.0.0,,,2024-06-25 10:26:10,2024-06-25 10:26:34,23.372s,PASSED
+,,,,,,,
+Test Cases/Lazada/Login,Chrome 126.0.0.0,,,2024-06-25 10:26:34,2024-06-25 10:27:24,50.205s,PASSED
+openBrowser(lazada),Chrome 126.0.0.0,,,2024-06-25 10:26:34,2024-06-25 10:27:00,25.137s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,2024-06-25 10:27:00,2024-06-25 10:27:00,0.515s,PASSED
+"click(findTestObject(""div"", [""attr"":""@id"", ""val"":""anonLogin""]))",Chrome 126.0.0.0,,,2024-06-25 10:27:00,2024-06-25 10:27:24,23.733s,PASSED
+,,,,,,,
+Test Cases/Lazada/OtomotiveShopping,Chrome 126.0.0.0,,,2024-06-25 10:27:24,2024-06-25 10:27:52,28.237s,PASSED
+"callTestCase(findTestCase(""LIBS/Lazada MainFeature""), [""MainMenu"":MainMenu], STOP_ON_FAILURE)",Chrome 126.0.0.0,,,2024-06-25 10:27:25,2024-06-25 10:27:52,27.470s,PASSED
+,,,,,,,
+Test Cases/Lazada/TopupPhonenumberBalance,Chrome 126.0.0.0,,,2024-06-25 10:27:52,2024-06-25 10:28:20,27.839s,PASSED
+"callTestCase(findTestCase(""LIBS/Lazada MainFeature""), [""MainMenu"":MainMenu], STOP_ON_FAILURE)",Chrome 126.0.0.0,,,2024-06-25 10:27:52,2024-06-25 10:28:20,27.448s,PASSED
+,,,,,,,
+Test Cases/Lazada/ReserveFashionVoucher,Chrome 126.0.0.0,,,2024-06-25 10:28:20,2024-06-25 10:28:47,26.961s,PASSED
+"callTestCase(findTestCase(""LIBS/Lazada MainFeature""), [""MainMenu"":mainMenu], STOP_ON_FAILURE)",Chrome 126.0.0.0,,,2024-06-25 10:28:20,2024-06-25 10:28:47,26.573s,PASSED
+,,,,,,,
+Test Cases/Lazada/inputFeedback,Chrome 126.0.0.0,,,2024-06-25 10:28:47,2024-06-25 10:29:14,27.260s,PASSED
+openBrowser(lazada),Chrome 126.0.0.0,,,2024-06-25 10:28:47,2024-06-25 10:28:50,2.308s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,2024-06-25 10:28:50,2024-06-25 10:29:12,22.623s,PASSED
+"click(findTestObject(""div"", [""attr"":""@id"", ""val"":""topActionFeedback""]))",Chrome 126.0.0.0,,,2024-06-25 10:29:12,2024-06-25 10:29:14,1.792s,PASSED
+,,,,,,,
+Test Cases/Lazada/joinSeller,Chrome 126.0.0.0,,,2024-06-25 10:29:14,2024-06-25 10:31:03,1m - 49.027s,PASSED
+openBrowser(lazada),Chrome 126.0.0.0,,,2024-06-25 10:29:15,2024-06-25 10:29:41,25.319s,PASSED
+maximizeWindow(),Chrome 126.0.0.0,,,2024-06-25 10:29:41,2024-06-25 10:29:41,0.879s,PASSED
+"click(findTestObject(""div"", [""attr"":""@id"", ""val"":""topActionSell""]))",Chrome 126.0.0.0,,,2024-06-25 10:29:41,2024-06-25 10:31:03,1m - 21.762s,PASSED
